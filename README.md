@@ -1,4 +1,3 @@
-# LGMVIP--DataScience-Task-Number-1
 # Iris Flower Classification Project
 
 This project is part of the LGMVIP Data Science Internship. The goal of this project is to build a machine learning model to classify Iris flowers into different species based on their measurements.
@@ -37,10 +36,4 @@ Here are some resources that might be helpful for understanding the Iris Flower 
 - [Python Documentation](https://docs.python.org/)
 
 Feel free to explore and modify the code to experiment with different machine learning algorithms or techniques!
-
-## Acknowledgments
-
-This project is completed as part of the LGMVIP Data Science Internship. Thanks to LetsGrowMore for providing this learning opportunity and guidance throughout the internship.
-
-If you have any questions or suggestions, feel free to reach out. Happy coding!
 
